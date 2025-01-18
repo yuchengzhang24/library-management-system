@@ -1,0 +1,94 @@
+The Catcher in the Rye,J.D. Salinger,9780316769488,Classics
+Brave New World,Aldous Huxley,9780060850527,Dystopian
+1984,George Orwell,9780451524935,Dystopian
+Fahrenheit 451,Ray Bradbury,9781451673319,Dystopian
+The Picture of Dorian Gray,Oscar Wilde,9780141439570,Classics
+The Odyssey,Homer,9780140268867,Classics
+Dracula,Bram Stoker,9780141439846,Horror
+Frankenstein,Mary Shelley,9780141439471,Horror
+Wuthering Heights,Emily Brontë,9780141439556,Classics
+Jane Eyre,Charlotte Brontë,9780141441146,Classics
+The Call of the Wild,Jack London,9780451530217,Adventure
+White Fang,Jack London,9780451531290,Adventure
+The Jungle,Upton Sinclair,9780486431234,Classics
+The Scarlet Letter,Nathaniel Hawthorne,9780140390775,Classics
+The Brothers Karamazov,Fyodor Dostoevsky,9780374528379,Classics
+Crime and Punishment,Fyodor Dostoevsky,9780486454110,Classics
+War and Peace,Leo Tolstoy,9781400079988,Historical Fiction
+Anna Karenina,Leo Tolstoy,9781400079989,Historical Fiction
+Les Misérables,Victor Hugo,9780451419439,Historical Fiction
+Gone with the Wind,Margaret Mitchell,9781451635623,Historical Fiction
+The Thorn Birds,Colleen McCullough,9780062641470,Historical Fiction
+Outlander,Diana Gabaldon,9780385336969,Historical Fiction
+A Tale of Two Cities,Charles Dickens,9780141439600,Historical Fiction
+Great Expectations,Charles Dickens,9781853260049,Classics
+The Secret Garden,Frances Hodgson Burnett,9780141329824,Children's Literature
+The Chronicles of Narnia,C.S. Lewis,9780066238500,Fantasy
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,9780590353427,Fantasy
+The Hobbit,J.R.R. Tolkien,9780547928227,Fantasy
+A Game of Thrones,George R. R. Martin,9780553103540,Fantasy
+The Fellowship of the Ring,J.R.R. Tolkien,9780395489336,Fantasy
+The Two Towers,J.R.R. Tolkien,9780395489336,Fantasy
+The Return of the King,J.R.R. Tolkien,9780395489374,Fantasy
+The Book Thief,Markus Zusak,9780375842207,Historical Fiction
+The Road,Cormac McCarthy,9780307387899,Fiction
+The Kite Runner,Khaled Hosseini,9781594480003,Fiction
+The Time Traveler's Wife,Audrey Niffenegger,9780156029438,Science Fiction
+The Giver,Lois Lowry,9780544336261,Science Fiction
+The Hunger Games,Suzanne Collins,9780439023528,Dystopian
+Divergent,Veronica Roth,9780062024039,Dystopian
+The Maze Runner,James Dashner,9780385737951,Dystopian
+The Fault in Our Stars,John Green,9780142424179,Romance
+Looking for Alaska,John Green,9780142402511,Romance
+Eleanor & Park,Rainbow Rowell,9781250031217,Romance
+Me Before You,Jojo Moyes,9780143124541,Romance
+The Rosie Project,Graeme Simsion,9781444759805,Romance
+Big Little Lies,Liane Moriarty,9780399167065,Drama
+The Girl on the Train,Paula Hawkins,9781594633662,Thriller
+Sharp Objects,Gillian Flynn,9780307341556,Thriller
+Gone Girl,Gillian Flynn,9780307588371,Thriller
+The Woman in the Window,A.J. Finn,9780062678416,Thriller
+The Silent Patient,Alex Michaelides,9781250301697,Thriller
+Before I Go to Sleep,S.J. Watson,9780062229074,Thriller
+The Couple Next Door,Shari Lapena,9781101973780,Thriller
+The Lying Game,Renée Knight,9780062462990,Thriller
+The Hitchhiker's Guide to the Galaxy,Douglas Adams,9780345391803,Science Fiction
+The Shining,Stephen King,9780307743657,Horror
+The Stand,Stephen King,9780451169525,Horror
+It,Stephen King,9781501142970,Horror
+Misery,Stephen King,9780451150486,Horror
+Carrie,Stephen King,9780385086950,Horror
+Salem's Lot,Stephen King,9781451678849,Horror
+The Dark Tower: The Gunslinger,Stephen King,9780451162951,Fantasy
+The Dark Tower: The Drawing of the Three,Stephen King,9780451164269,Fantasy
+The Dark Tower: The Waste Lands,Stephen King,9780451164405,Fantasy
+The Dark Tower: Wizard and Glass,Stephen King,9780451164498,Fantasy
+The Dark Tower: The Wind Through the Keyhole,Stephen King,9780452295298,Fantasy
+Ender's Game,Orson Scott Card,9780812550702,Science Fiction
+The Left Hand of Darkness,Ursula K. Le Guin,9780441007318,Science Fiction
+Snow Crash,Neal Stephenson,9780553380958,Science Fiction
+The Handmaid's Tale,Margaret Atwood,9780385490818,Dystopian
+Oryx and Crake,Margaret Atwood,9780385721677,Science Fiction
+The Blind Assassin,Margaret Atwood,9780385720953,Fiction
+The Testaments,Margaret Atwood,9780385543781,Dystopian
+The Hunger Games Trilogy,Suzanne Collins,9780439023498,Dystopian
+Station Eleven,Emily St. John Mandel,9781447262942,Science Fiction
+The Water Knife,Paolo Bacigalupi,9780385352889,Science Fiction
+The Underground Railroad,Colson Whitehead,9780385542364,Historical Fiction
+Sapiens: A Brief History of Humankind,Yuval Noah Harari,9780062316110,Non-fiction
+Educated:Tara Westover,9780399590504,Non-fiction
+Becoming,Michelle Obama,9781524763138,Non-fiction
+The Immortalists,Chloe Benjamin,9780735213180,Fiction
+Where the Crawdads Sing,Delia Owens,9780735219113,Fiction
+The Paris Library,Janet Skeslien Charles,9781982134204,Fiction
+The Night Circus,Erin Morgenstern,9780385534635,Fantasy
+The City of Brass,S.A. Chakraborty,9780062678102,Fantasy
+Six of Crows,Leigh Bardugo,9781627792127,Fantasy
+The Shadow of the Wind,Carlos Ruiz Zafón,9780143034902,Fiction
+The Name of the Wind,Patrick Rothfuss,9780756404741,Fantasy
+The Priory of the Orange Tree,Samantha Shannon,9781635570302,Fantasy
+Circe,Madeline Miller,9780316556347,Fiction
+The Silent Corner,Dean Koontz,9780345545897,Thriller
+The Whisper Man,Alex North,9780786041481,Thriller
+The Couple Next Door,Shari Lapena,9781101967581,Thriller
+The Night Manager,John le Carré,9780143119763,Thriller
