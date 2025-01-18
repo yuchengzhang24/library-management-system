@@ -3,8 +3,6 @@ Library management system in C++ to demonstrate proficiency in OOP concepts and 
 
 # **Read Me**
 
-## Project Overview
-
 ## Description
 Develop a system to manage a library's operations.
 
