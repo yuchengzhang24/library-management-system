@@ -1,13 +1,6 @@
 # library-management-system
 Library management system in C++ to demonstrate proficiency in OOP concepts and the ability to modular, maintainable, and scalable code. 
 
-*******************************************************
-*  **Name     :** Yucheng Zhang         
-*  **Student ID:**  109381705               
-*  **Class     :**  CSCI 2312 Section 002             
-*  **Due Date  :** 11/29/24
-*******************************************************
-
 # **Read Me**
 
 ## Project Overview
