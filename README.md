@@ -1,10 +1,7 @@
-# library-management-system
-Library management system in C++ to demonstrate proficiency in OOP concepts and the ability to write modular, maintainable, and scalable code. 
-
 # **Read Me**
 
 ## Description
-Develop a system to manage a library's operations.
+Develop a Library management system in C++ to demonstrate proficiency in OOP concepts and the ability to write modular, maintainable, and scalable code. 
 
 ## Features
 - **User Management**: Add, update, delete, and search for users (students, teachers, etc.).
